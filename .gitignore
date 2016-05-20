@@ -1,0 +1,9 @@
+*.b\#*
+*.s\#*
+*.l\#*
+*.pro
+*.log
+*.zip
+.DS_Store
+eagle.epf
+*.scr
